@@ -1,0 +1,8 @@
+# cmake
+CMakeFiles
+Makefile
+*.cmake
+CMakeCache.txt
+build
+uWebSockets-prefix
+install_manifest.txt
